@@ -1,0 +1,2 @@
+# IOTASeedGenerator
+Generates IOTA seeds.
