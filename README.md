@@ -1,7 +1,7 @@
 # IOTASeedGenerator
 Generates IOTA seeds.
 
-### [GENERATOR](https://urbankocmut.github.io/IOTASeedGenerator/)
+### :link:[GENERATOR](https://urbankocmut.github.io/IOTASeedGenerator/)
 
-##### Donations
+##### Donations :heart:
 9JXTUERRYHSELOCPUEBMCYZKFOBBXCVUOFKOIFPHEAFNB9VWPDWLTMZBGWGRASJLNRBOIDUGF99YA9UGXLMTFYXYOC
