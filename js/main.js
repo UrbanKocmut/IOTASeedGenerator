@@ -20,6 +20,5 @@ function generateSeed() {
 }
 
 function displaySeed() {
-    var seed = generateSeed();
-    document.getElementById("heading").innerText = seed;
+    document.getElementById("heading").innerText = generateSeed();
 }
