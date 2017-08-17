@@ -19,6 +19,10 @@ body {
     margin-top: 30%;
 }
 
+h3{
+    overflow-wrap:break-word;
+}
+
 .top-buffer-small{
     margin-top: 10%;
 }
